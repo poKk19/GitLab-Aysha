@@ -1,0 +1,1 @@
+ git staging area is useful for rechecking and maintain the sequence before saving it
